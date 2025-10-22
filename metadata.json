@@ -1,0 +1,7 @@
+{
+  "name": "JobM8-web",
+  "description": "An application that allows users to practice for job interviews through real-time conversations with an AI. The AI tailors the mock interview based on the user's resume and a provided job description.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
